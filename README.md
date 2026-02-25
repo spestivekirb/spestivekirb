@@ -16,6 +16,20 @@ I'm Jerry, a student studying Honors Computer Science and Biology at McGill Univ
 #### The Odin Project
 - Foundations: [Recipes (HTML)](https://github.com/spestivekirb/odin-recipes) | [📌 Landing Page (CSS)](https://github.com/spestivekirb/odin-landing-page) | [Rock Paper Scissors (JavaScript)](https://github.com/spestivekirb/odin-rock-paper-scissors) | [Etch-a-Sketch (JavaScript)](https://github.com/spestivekirb/odin-etch-a-sketch) | [📌 Calculator (JavaScript)](https://github.com/spestivekirb/odin-calculator)
 - Ruby: [Basics, Tic Tac Toe, 📌 Mastermind, Hangman](https://github.com/spestivekirb/odin-ruby-basic) | [Custom Enumerables](https://github.com/spestivekirb/odin-custom-enumerables) | [Fibbonacci, Merge Sort](https://github.com/spestivekirb/odin-ruby-cs)
+
+
+
+### Notable Courses
+- Data Structures and Algorithms (COMP 251 @ McGill)
+- Introduction to Software Systems (COMP 206 @ McGill)
+- Introduction to Computer Science (COMP 250 @ McGill)
+- Operating Systems (COMP 310 @ McGill)
+- Programming Languages and Paradigms (COMP 302 @ McGill)
+
+- Linear Algebra (MATH 223 @ McGill)
+- Calculus 3 (MATH 222 @ McGill)
+- Discrete Structures (MATH 240 @ McGill)
+- Probability (MATH 323 @ McGill)
 <!--
 **spestivekirb/spestivekirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
