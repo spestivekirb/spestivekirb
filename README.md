@@ -2,11 +2,11 @@
 I'm Jerry, a student studying Honors Computer Science and Biology at McGill University.
 
 ### Skills
-**Languages:** Python, Java, Ruby, C, C#, R, OCaml, Bash, HTML, CSS, JavaScript.
-**Frameworks:** React.js, Apache Spark, .NET
-**Cloud:** Microsoft Azure, Amazon AWS
-**Database:** SQL, MS SQL Server, MongoDB
-**APIs:** RESTful APIs
+- **Languages:** Python, Java, Ruby, C, C#, R, OCaml, Bash, HTML, CSS, JavaScript.
+- **Frameworks:** React.js, Apache Spark, .NET
+- **Cloud:** Microsoft Azure, Amazon AWS
+- **Database:** SQL, MS SQL Server, MongoDB
+- **APIs:** RESTful APIs
 
 ### Project Directory
 #### Hackathons
