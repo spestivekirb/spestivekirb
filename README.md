@@ -18,7 +18,7 @@ I'm Jerry, a student studying Honors Computer Science and Biology at McGill Univ
 - Ruby: [Basics, Tic Tac Toe, 📌 Mastermind, Hangman](https://github.com/spestivekirb/odin-ruby-basic) | [Custom Enumerables](https://github.com/spestivekirb/odin-custom-enumerables) | [Fibbonacci, Merge Sort](https://github.com/spestivekirb/odin-ruby-cs)
 
 #### Other
-- In process: [Moviedux (React.js)](https://github.com/spestivekirb/moviedux)
+- In progress: [Moviedux (React.js)](https://github.com/spestivekirb/moviedux)
 
 
 
