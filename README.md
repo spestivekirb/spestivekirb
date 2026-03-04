@@ -25,23 +25,25 @@ I'm Jerry, a student studying Honors Computer Science and Biology at McGill Univ
 
 ### Notable Courses
 #### CS and Math
+
 - Data Structures and Algorithms (COMP 251 @ McGill)
 - Introduction to Software Systems (COMP 206 @ McGill)
 - Introduction to Computer Science (COMP 250 @ McGill)
 - Operating Systems (COMP 310 @ McGill)
 - Programming Languages and Paradigms (COMP 302 @ McGill)
-
 - Linear Algebra (MATH 223 @ McGill)
 - Calculus 3 (MATH 222 @ McGill)
 - Discrete Structures (MATH 240 @ McGill)
 - Probability (MATH 323 @ McGill)
 
-
 #### Biology
+
+
 - Basic Genetics (Biol 202 @ McGill)
 - Developmental Biology (Biol 303 @ McGill)
 - Intro to Ecology and Evolution (Biol 215 @ McGill)
 - Intro to Physical Molecular and Cell Biology (Biol 219 @ McGill)
+
 <!--
 **spestivekirb/spestivekirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
