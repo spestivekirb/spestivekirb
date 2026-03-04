@@ -19,7 +19,7 @@ I'm Jerry, a student studying Honors Computer Science and Biology at McGill Univ
 
 #### Other
 - In progress: [Moviedux (React.js)](https://github.com/spestivekirb/moviedux)
-- [PyTorch Classifier](https://github.com/spestivekirb/PyTorch-Classifier_
+- [PyTorch Classifier](https://github.com/spestivekirb/PyTorch-Classifier)
 
 
 
